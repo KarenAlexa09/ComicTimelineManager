@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b0b8c96a200b746aac718cfbf2859a, type: 3}
+  m_Name: StorySnippetsSO
+  m_EditorClassIdentifier: 
+  snippets:
+  - storyType: 1
+    isUnlocked: 0
+    isNotified: 0
+    playableDirectorPrefab:
+      m_AssetGUID: cb5f8a431b7d93348b7817c6fb4a6394
+      m_SubObjectName: 
+      m_SubObjectGUID: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    coverImage: {fileID: 21300000, guid: 605804b0ca802f64ca8f60cc01ba1120, type: 3}
+    description: Here's a description
+  - storyType: 2
+    isUnlocked: 0
+    isNotified: 0
+    playableDirectorPrefab:
+      m_AssetGUID: cb5f8a431b7d93348b7817c6fb4a6394
+      m_SubObjectName: 
+      m_SubObjectGUID: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1
+    coverImage: {fileID: 21300000, guid: 25d57330dd37abc47a12de6ede2b3941, type: 3}
+    description: Here's a description
